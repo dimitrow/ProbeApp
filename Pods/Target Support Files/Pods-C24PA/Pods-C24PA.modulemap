@@ -1,0 +1,6 @@
+framework module Pods_C24PA {
+  umbrella header "Pods-C24PA-umbrella.h"
+
+  export *
+  module * { export * }
+}
